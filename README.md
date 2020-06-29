@@ -3,3 +3,10 @@ C language - A Complete Student Database Management || Having all Necessary Feat
 
 
 ![WELCOME](/Screenshot/Capture1.PNG)
+
+![WELCOME](/Screenshot/Capture2.PNG)
+
+![WELCOME](/Screenshot/Capture3.PNG)
+
+![WELCOME](/Screenshot/Capture4.PNG)
+
